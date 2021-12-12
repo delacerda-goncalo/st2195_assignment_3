@@ -1,0 +1,16 @@
+---
+title: "Practice Assignment 3"
+author: "Gonçalo de Lacerda"
+date: "12/12/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Practice Assignment 3
+
+The files for the practice assignment should be contained within this repository. This includes a python script to create the database asked, and the practice quit questions solved in R an Python for the database in the Practice Assignment.
+
+The data used was accessed through the Harvard Dataverse (https://dataverse.harvard.edu/). The data specifically is from the Data Expo 2009, regarding various airline and flight data.
